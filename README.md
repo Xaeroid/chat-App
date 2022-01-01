@@ -1,4 +1,4 @@
-# chat-App-firebase
+# chat-App
 A chat app with person to person chatting feature along with the feature of updating the profile picture and also showing which all users are currently logged in or active.
 tecnologies used:
 1. ReactJS
